@@ -3,4 +3,4 @@ This project takes in a CSV of transactions from [Intuit's Mint, Expenses Tracki
 - exports a txt that can be used to generate a Sankey diagram at [SankeyMatic](https://sankeymatic.com/build)
 - displays a sankey plot using python plotly (not as beautiful as SankeyMatic's imo)
 
-Note: Remember to edit [`categories.yaml`](./categories.yaml) with any custom categories you create in Mint
+Note: Remember to edit [`mint-categories.yaml`](./mint-categories.yaml) with any custom categories you create in Mint
